@@ -1,4 +1,8 @@
 # web2016-test
 For github workflow education purposes
 
-### we could test merge conflict on this
+<<<<<<< HEAD
+spbgu 2016
+=======
+spbgu 2016
+>>>>>>> to
